@@ -2,7 +2,7 @@ Project README
 
 Compilation:
 ```
-$ cd BumperCars/
+$ cd A5/
 $ ./premake4 gmake
 $ make
 $ ./A5
